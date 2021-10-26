@@ -1,0 +1,47 @@
+h2 {
+    background-color: blue;
+    font-size: 30px;
+}
+
+#my-title {
+    color: blueviolet;
+    font-size: 20px;
+}
+
+#my-text {
+    background-color: chocolate;
+}
+
+.title-style {
+    font-size: 40px;
+    font-weight: bold;
+    color: crimson;
+}
+
+.btn{
+    font-size: 20px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-right: 50px;
+}
+.btn-danger{
+    background-color: tomato;
+    color: white;
+}
+.btn-primary{
+    background-color: #ffd600;
+    color: black;
+}
+.btn-position{
+    position: absolute;
+    top: 10%;
+    left: 50%;
+}
+.box-position{
+    position: absolute;
+    top: 10%;
+    left: 50%;
+}

@@ -1,0 +1,8 @@
+
+.btn-primary1{
+    background-color: blueviolet;
+    color: white;
+}
+.bg-dark{
+    background-color: var(--bs-blue-500);
+}
